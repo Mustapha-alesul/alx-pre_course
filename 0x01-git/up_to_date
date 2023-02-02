@@ -1,0 +1,2 @@
+ git branch --set-stream-to=origin/mai
+git pull
